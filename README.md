@@ -1,4 +1,4 @@
-###Brain Tumor Classification with AI-Powered Explanations
+<h1>Brain Tumor Classification with AI-Powered Explanations</h1>
 This project is an AI-driven diagnostic tool for classifying brain tumors using MRI scans. It integrates advanced machine learning models, interactive visualizations, and personalized AI explanations to enhance diagnostic understanding.
 
 Features:
